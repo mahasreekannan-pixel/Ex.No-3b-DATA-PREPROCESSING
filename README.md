@@ -178,10 +178,6 @@ print(x_test)
 <img width="357" height="246" alt="image" src="https://github.com/user-attachments/assets/805f0cf7-d842-4f40-9153-fa751e93c76d" />
 <img width="422" height="327" alt="image" src="https://github.com/user-attachments/assets/d7403220-7a85-4000-8eb8-bcf7c65819a3" />
 <img width="280" height="522" alt="image" src="https://github.com/user-attachments/assets/4a04c1c7-2b06-4b1f-9ae9-baa1d2e8336f" />
-<img width="280" height="522" alt="image" src="https://github.com/user-attachments/assets/23403304-11d4-456f-8c79-d243eb3cb9e0" />
-<img width="280" height="522" alt="image" src="https://github.com/user-attachments/assets/1fa3c997-7288-437b-beb5-c0c015b24ec5" />
-<img width="280" height="522" alt="image" src="https://github.com/user-attachments/assets/1961dd6d-afa2-4d51-a08b-afecf440a282" />
-<img width="280" height="522" alt="image" src="https://github.com/user-attachments/assets/80a2f399-51c0-46b6-bac1-f5df97936695" />
 
 
 ## Conclusion
