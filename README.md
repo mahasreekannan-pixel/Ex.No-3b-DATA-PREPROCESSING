@@ -178,7 +178,10 @@ print(x_test)
 <img width="357" height="246" alt="image" src="https://github.com/user-attachments/assets/805f0cf7-d842-4f40-9153-fa751e93c76d" />
 <img width="422" height="327" alt="image" src="https://github.com/user-attachments/assets/d7403220-7a85-4000-8eb8-bcf7c65819a3" />
 <img width="280" height="522" alt="image" src="https://github.com/user-attachments/assets/4a04c1c7-2b06-4b1f-9ae9-baa1d2e8336f" />
-
+<img width="412" height="251" alt="WhatsApp Image 2026-11-02 at 10 13 03 AM" src="https://github.com/user-attachments/assets/0b552c84-a6a8-4e0b-8d6b-e2cf3923b5e4" />
+<img width="281" height="311" alt="WhatsApp Image 2026-11-02 at 10 13 11 AM" src="https://github.com/user-attachments/assets/19183bef-b121-4c0f-939e-cda45b303ed3" />
+<img width="310" height="422" alt="WhatsApp Image 2026-11-02 at 10 13 21 AM" src="https://github.com/user-attachments/assets/f2f46a8e-8de4-467c-b7e0-dfb404dcbd8a" />
+<img width="440" height="291" alt="WhatsApp Image 2026-11-02 at 10 13 27 AM" src="https://github.com/user-attachments/assets/e0a500ad-af38-490d-be02-6f66ec040d70" />
 
 ## Conclusion
 Thus, the given dataset was successfully preprocessed by handling missing values, encoding categorical variables, splitting the data into training and testing sets, and performing feature scaling.
