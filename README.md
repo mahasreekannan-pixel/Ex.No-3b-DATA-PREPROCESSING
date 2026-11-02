@@ -193,4 +193,3 @@ Thus, the given dataset was successfully preprocessed by handling missing values
 <img width="412" height="251" alt="WhatsApp Image 2026-11-02 at 10 13 03 AM" src="https://github.com/user-attachments/assets/0b552c84-a6a8-4e0b-8d6b-e2cf3923b5e4" />
 <img width="281" height="311" alt="WhatsApp Image 2026-11-02 at 10 13 11 AM" src="https://github.com/user-attachments/assets/19183bef-b121-4c0f-939e-cda45b303ed3" />
 <img width="310" height="422" alt="WhatsApp Image 2026-11-02 at 10 13 21 AM" src="https://github.com/user-attachments/assets/f2f46a8e-8de4-467c-b7e0-dfb404dcbd8a" />
-<img width="440" height="291" alt="WhatsApp Image 2026-11-02 at 10 13 27 AM" src="https://github.com/user-attachments/assets/e0a500ad-af38-490d-be02-6f66ec040d70" />
