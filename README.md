@@ -183,6 +183,6 @@ print(x_test)
 <img width="310" height="422" alt="WhatsApp Image 2026-11-02 at 10 13 21 AM" src="https://github.com/user-attachments/assets/f2f46a8e-8de4-467c-b7e0-dfb404dcbd8a" />
 <img width="440" height="291" alt="WhatsApp Image 2026-11-02 at 10 13 27 AM" src="https://github.com/user-attachments/assets/e0a500ad-af38-490d-be02-6f66ec040d70" />
 
-## Conclusion
+## Result
 Thus, the given dataset was successfully preprocessed by handling missing values, encoding categorical variables, splitting the data into training and testing sets, and performing feature scaling.
 
